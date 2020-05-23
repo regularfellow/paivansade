@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Päivänsade",
+    "slug": "paivansade",
+    "version": "1.0.1",
+    "backgroundColor": "#121212",
+    "primaryColor": "#c44d27",
+    "icon": "./paivansade.png",
+    "splash": {
+      "backgroundColor": "#121212",
+      "resizeMode": "contain",
+      "image": "./paivansade.png"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "title": "Päivänsade",
+      "lang": "fi",
+      "backgroundColor": "#121212",
+      "themeColor": "#c44d27"
+    }
+  }
+}
